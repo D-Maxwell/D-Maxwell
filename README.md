@@ -26,7 +26,7 @@ Markdown is neat, so much so that I'm working on my own "flavour". (where's my _
 
 Latex is awful as a language, absolutely unreadable, and whatever you may say I will pronounce it Layteks. You could have set a `c` or a `k`, or even a `q`, yet you choose to put an `x`. WDYE?
 
-Interested in linguistics as well. I believe they're called Conlangs or something ? Whatever – different vocabulary, same ideas.
+Interested in linguistics as well. I believe what I'm doing is called a Conlang or something ? Whatever – different vocabulary, same ideas.
 
 <!---
 D-Maxwell/D-Maxwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
