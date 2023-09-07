@@ -17,7 +17,7 @@ Opinions are obviously my own, though I will gladly engage in any debate, and co
 
 — *Reconsider Everything* —
 
-I've also tinkered with other languages, like JS, Java, or even "pseudo-languages", like AHK.
+I've also tinkered with other languages, like JS, Java, or even "pseudo-languages", like AHK, and other frontend and markup languages.
 
 Markdown is neat, so much so that I'm working on my own "flavour". (where's my __underline__ at??)
 
